@@ -1,6 +1,4 @@
 # neto-hw
-<<<<<<< HEAD
-=======
 Задание 1
 https://hub.docker.com/repository/docker/felpucci/custom-nginx/general
 
@@ -13,4 +11,3 @@ https://hub.docker.com/repository/docker/felpucci/custom-nginx/general
 Прочитайте warning, объясните суть предупреждения и выполните предложенное действие
 > warning напрямую говорит, что нашлись контейнеры-сироты для этого проекта, жмите опцию --удалить-сироту чтоб почистить, если удалили/переименовали этот сервис из компоуз файла:
 --remove-orphans            Remove containers for services not defined in the Compose file
->>>>>>> c25dfa4 (added docker compose hw)
