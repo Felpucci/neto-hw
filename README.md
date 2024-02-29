@@ -1,4 +1,4 @@
-# neto-hw \
+# neto-hw
 Задание 1 \
 https://hub.docker.com/repository/docker/felpucci/custom-nginx/general
 
