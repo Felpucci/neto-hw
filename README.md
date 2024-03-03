@@ -7,7 +7,7 @@ https://hub.docker.com/repository/docker/felpucci/custom-nginx/general
 Задание 3 \
 ![ex3-pic1](/images/hw-docker-intro-ex3-1.png)
 ![ex3-pic2](/images/hw-docker-intro-ex3-2.png)
-![ex3-pic3](/images/hw-docker-intro-ex3-3.png)
+![ex3-pic3](/images/hw-docker-intro-ex3-3.png) \
 ![ex3-pic4](/images/hw-docker-intro-ex3-4.png)
 ![ex3-pic5](/images/hw-docker-intro-ex3-5.png)
 ![ex3-pic6](/images/hw-docker-intro-ex3-6.png)
