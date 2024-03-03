@@ -3,7 +3,7 @@
 https://hub.docker.com/repository/docker/felpucci/custom-nginx/general
 
 Задание 2 \
-![ex2-pic1](/images/hw-docker-intro-ex2.png)
+![ex2-pic1](/images/hw-docker-intro-ex2.png) \
 Задание 3 \
 ![ex3-pic1](/images/hw-docker-intro-ex3-1.png)
 ![ex3-pic2](/images/hw-docker-intro-ex3-2.png)
@@ -12,9 +12,9 @@ https://hub.docker.com/repository/docker/felpucci/custom-nginx/general
 ![ex3-pic5](/images/hw-docker-intro-ex3-5.png)
 ![ex3-pic6](/images/hw-docker-intro-ex3-6.png)
 ![ex3-pic7](/images/hw-docker-intro-ex3-7.png)
-![ex3-pic8](/images/hw-docker-intro-ex3-8.png)
+![ex3-pic8](/images/hw-docker-intro-ex3-8.png) \
 Задание 4 \
-![ex4](/images/hw-docker-intro-ex4.png)
+![ex4](/images/hw-docker-intro-ex4.png) \
 Задание 5 \
 ![ex5-pic1](/images/hw-docker-intro-ex5-1.png)
 ![ex5-pic2](/images/hw-docker-intro-ex5-2.png)
